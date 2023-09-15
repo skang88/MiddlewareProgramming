@@ -1,0 +1,19 @@
+Server is running on port 3000
+{
+  fname: 'John',
+  mname: '',
+  lname: 'Doe',
+  address: '1331 S Dobson Rd',
+  phone: '3334449999',
+  email: 'john.doe@mail.com',
+  desc: 'first'
+}
+{
+  fname: 'Mia',
+  mname: '',
+  lname: 'Kim',
+  address: '1345 S Gilbert Rd',
+  phone: '9931113444',
+  email: 'Mia1414@mail.com',
+  desc: 'Second!'
+}
