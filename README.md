@@ -60,7 +60,7 @@ sudo nano /etc/httpd/conf/httpd.conf
 ```
 
 
-# Module2 A2 - JavaScript language  | [(Link)](https://github.com/skang88/MiddlewareProgramming/tree/main/lecture/Module%20A1)
+# Module2 A2 - JavaScript language  | [(Link)](https://github.com/skang88/MiddlewareProgramming/tree/main/lecture/Module2%20A1)
 
 In this modue, I defined an Array and practiced how to access an Array, and among the many ways to define a function, I practiced the arrow fat function.
 
