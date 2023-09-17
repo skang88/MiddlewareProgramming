@@ -1,3 +1,8 @@
+# MiddlewareProgramming
+
+This repository is the result of a middleware programming course. The final goal is to learn how to develop Node JS applications, especially how data is exchanged between servers and databases, and between servers and clients, and how more efficient designs are possible.
+
+
 # Module2 A1
 
 In this module, I practiced an example of receiving two numbers from the ejs form and outputting the result of adding, subtracting, multiplying, or dividing the two numbers. The code to configure the approximate server is as follows.
