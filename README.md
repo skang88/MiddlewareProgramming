@@ -1,4 +1,9 @@
-# Module2 A1
+# MiddlewareProgramming
+
+This repository is the result of a middleware programming course. The final goal is to learn how to develop Node JS applications, especially how data is exchanged between servers and databases, and between servers and clients, and how more efficient designs are possible.
+
+
+# Module2 A1 | [(Link)](https://github.com/skang88/MiddlewareProgramming/tree/main/lecture/Module1%20A1)
 
 In this module, I practiced an example of receiving two numbers from the ejs form and outputting the result of adding, subtracting, multiplying, or dividing the two numbers. The code to configure the approximate server is as follows.
 
@@ -55,7 +60,7 @@ sudo nano /etc/httpd/conf/httpd.conf
 ```
 
 
-# Module2 A2 - JavaScript language
+# Module2 A2 - JavaScript language  | [(Link)](https://github.com/skang88/MiddlewareProgramming/tree/main/lecture/Module2%20A1)
 
 In this modue, I defined an Array and practiced how to access an Array, and among the many ways to define a function, I practiced the arrow fat function.
 
