@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> <%= title %> </title>
+</head>
+<body>
+
+    <h1>
+        Student View
+    </h1>
+
+    <a href="/"> Go back Home </a>
+
+    <h2>Student Information Form</h2>
+    <form action="/user" method="POST">
+        <label for="fname">First Name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last Name:</label><br>
+        <input type="text" id="lname" name="lname"><br>
+        <label for="address">UserID:</label><br>
+        <input type="text" id="UserID" name="UserID"><br>
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+        <label for="email">Retype Email:</label><br>
+        <input type="text" id="validateEmail" name="validateEmail"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
