@@ -32,9 +32,9 @@ const mongoose = require('mongoose');
 //     else {console.log('Error in DB connection : ' + err)}
 // });
 
-
+const url = ""
 //asyncronous connection
-mongoose.connect('mongodb+srv://dxs:1234@cluster0.wudm1uz.mongodb.net/ift458Test', 
+mongoose.connect('url', 
     {
         useNewUrlParser: true, 
         useUnifiedTopology: true
